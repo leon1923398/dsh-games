@@ -1,0 +1,16 @@
+{
+  "tool": "dsh-game-studio",
+  "version": 1,
+  "games": {
+    "false-knight": {
+      "title": "愤怒的普通人",
+      "source": "0291e87eac9aea88",
+      "publishedAt": "2026-11-17T11:54:02.763Z",
+      "buildId": "63ed1fa06e22",
+      "dimension": "2d",
+      "orientation": "landscape",
+      "cover": "false-knight/cover.jpg"
+    }
+  },
+  "wall": null
+}

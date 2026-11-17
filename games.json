@@ -1,0 +1,19 @@
+{
+  "format": "dsh-games-feed",
+  "version": 1,
+  "name": "leon1923398 的小游戏",
+  "author": "leon1923398",
+  "updatedAt": "2026-11-17T11:54:02.763Z",
+  "games": [
+    {
+      "slug": "false-knight",
+      "title": "愤怒的普通人",
+      "url": "false-knight/",
+      "cover": "false-knight/cover.jpg",
+      "dimension": "2d",
+      "orientation": "landscape",
+      "publishedAt": "2026-11-17T11:54:02.763Z"
+    }
+  ],
+  "wall": null
+}
